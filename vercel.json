@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://music.cloud1024.com/:match*"
+    }
+  ]
+}
